@@ -13,7 +13,11 @@ The legacy version of the script of which this script is based on the I am Root 
 # <img src="https://github.com/user-attachments/assets/fc2cad36-6571-4ffe-b30c-bfba6dd47ff5" width="500"/>
 ## Auto/Manual Menus
 # <img src="https://github.com/user-attachments/assets/63c02d89-0f54-4407-93b1-b40eb9cff330" width="350"/> <img src="https://github.com/user-attachments/assets/7fb70636-8c61-4a6f-916c-925b746201d7" width="350"/>
-
+## Docs, Misc and Opts Menus
+Miscellaneous Menu is currently under development
+# <img src="https://github.com/user-attachments/assets/96559ae3-78f6-47d7-967e-dfd8b50b6b08" width="350"/> <img src="https://github.com/user-attachments/assets/c7b0577a-9156-468b-81ee-84802784a5a3" width="350"/>
+## Services Menu
+# <img src="https://github.com/user-attachments/assets/b05adc71-10ed-400c-bf9a-30fb617c9851" width="400"/>
 
 # How to Use
 ## Getting Started
@@ -38,7 +42,7 @@ sudo apt install -y python3-pyqt5
 # Known Issues
  - Can't run the script as the root user. Alternatively, run as a sudoer and run `sudo python3 /unproc/unprotectedcyber.py`.
  - Some users have to run `cd /unproc/` to get it running.
-
+ - Miscellaneous Menu is kinda roughed up right now.
 # Credits
 ## Primary Developers:
  - [HopeAxolotl](https://github.com/hopeaxolotl)
