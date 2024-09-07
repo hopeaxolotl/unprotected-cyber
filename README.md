@@ -25,14 +25,15 @@ The legacy version of the script of which this script is based on the I am Root 
  - From there, most moddable files are within each folder, like /opts/ and /services/.
 ## Dependencies
  - Dependencies should be automatically installed when you install via .deb, but just in case, the dependencies are:
-# Known Issues
- - Can't run the script as the root user. Alternatively, run as a sudoer and run `sudo python3 /unproc/unprotectedcyber.py`.
- - Some users have to run `cd /unproc/` to get it running.
 ```
 sudo apt install -y python3
 sudo apt install -y python3-pip
 sudo apt install -y python3-pyqt5
 ```
+# Known Issues
+ - Can't run the script as the root user. Alternatively, run as a sudoer and run `sudo python3 /unproc/unprotectedcyber.py`.
+ - Some users have to run `cd /unproc/` to get it running.
+
 # Credits
 ## Primary Developers:
  - [HopeAxolotl](https://github.com/hopeaxolotl)
