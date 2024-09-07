@@ -23,8 +23,8 @@ The legacy version of the script of which this script is based on the I am Root 
 # Credits
 ## Primary Developers:
  - [HopeAxolotl](https://github.com/hopeaxolotl)
- - Kezznator
- - Sienna7002
+ - [Kezznator](https://github.com/kerron123456)
+ - [Sienna7002](https://github.com/sienna7002)
 ## Special Thanks:
  - Developers of I am Root CyberCenturion script
  - Developers of Gl0ckrain CyberCenturion script
