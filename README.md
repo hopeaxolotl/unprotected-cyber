@@ -22,9 +22,9 @@ The legacy version of the script of which this script is based on the I am Root 
  - Optional scripts are scripts that aren't really needed for a secure system but added for convenience, for example the "Autoremove" option.
 # Credits
 ## Primary Developers:
- - @HopeAxolotl
- - @Kezznator
- - @Sienna7002
+ - [HopeAxolotl] (https://github.com/hopeaxolotl)
+ - Kezznator
+ - Sienna7002
 ## Special Thanks:
  - Developers of I am Root CyberCenturion script
  - Developers of Gl0ckrain CyberCenturion script
