@@ -24,11 +24,11 @@ The legacy version of the script of which this script is based on the I am Root 
  - All source bash files are located within folder ./unproc/.
  - From there, most moddable files are within each folder, like /opts/ and /services/.
 ## Dependencies
- - Dependencies should be installed when you install via .deb, but just in case, the dependencies are:
+ - Dependencies should be automatically installed when you install via .deb, but just in case, the dependencies are:
 ```
-python3
-python3-pip
-python3-pyqt5
+sudo apt install -y python3
+sudo apt install -y python3-pip
+sudo apt install -y python3-pyqt5
 ```
 # Credits
 ## Primary Developers:
