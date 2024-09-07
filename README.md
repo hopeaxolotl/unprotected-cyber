@@ -22,7 +22,7 @@ The legacy version of the script of which this script is based on the I am Root 
  - Optional scripts are scripts that aren't really needed for a secure system but added for convenience, for example the "Autoremove" option.
 # Credits
 ## Primary Developers:
- - [HopeAxolotl] (https://github.com/hopeaxolotl)
+ - [HopeAxolotl](https://github.com/hopeaxolotl)
  - Kezznator
  - Sienna7002
 ## Special Thanks:
