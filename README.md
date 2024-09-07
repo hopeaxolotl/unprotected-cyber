@@ -11,4 +11,4 @@ The legacy version of the script of which this script is based on the I am Root 
 # Screenshots
 ## tbc
 # How to Use
-1 - Download .deb file from GitHub repository. <br>2 - Run: `sudo apt install -y ./path/to/deb/unprotectedcyber.deb`.
+1 - Download .deb file from GitHub repository. <br>2 - Run: `sudo apt install -y ./path/to/deb/unprotectedcyber.deb`.<br>3 - When installed, run `python3 /unproc/unprotectedcyber.py`
