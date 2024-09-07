@@ -10,7 +10,7 @@ The legacy version of the script of which this script is based on the I am Root 
 <br>
 # Screenshots
 ## Main Menu
-<img src="https://github.com/user-attachments/assets/fc2cad36-6571-4ffe-b30c-bfba6dd47ff5" width="300"/>
+# <img src="https://github.com/user-attachments/assets/fc2cad36-6571-4ffe-b30c-bfba6dd47ff5" width="500"/>
 # How to Use
 ## Getting Started
 1 - Download .deb file from GitHub repository. <br>2 - Run: `sudo apt install -y ./path/to/deb/unprotectedcyber.deb`.<br>3 - When installed, run `python3 /unproc/unprotectedcyber.py` to start script.
