@@ -20,6 +20,9 @@ The legacy version of the script of which this script is based on the I am Root 
  - Miscellaneous scripts are made of miscellaneous scripts and lines of code that don't fit into any one category.
  - Services scripts are made of a single script used to configure a Linux service, for example SSH.
  - Optional scripts are scripts that aren't really needed for a secure system but added for convenience, for example the "Autoremove" option.
+## Mod Guide (Unofficial)
+ - All source bash files are located within folder ./unproc/.
+ - From there, most moddable files are within each folder, like /opts/ and /services/.
 # Credits
 ## Primary Developers:
  - [HopeAxolotl](https://github.com/hopeaxolotl)
