@@ -4,8 +4,8 @@
 
 ## Supported Versions
 
-| Version | Supported          |
-| ------- | ------------------ |
-| 0.0.1   | :white_check_mark: |
+| Version     | Supported          |
+| ----------- | ------------------ |
+| 0.0.1Alpha  | :white_check_mark: |
 
 ## Report vulnerabilties to [hopeaxolotl](https://discord.gg/UQkmX5V5mP)
