@@ -1,4 +1,4 @@
-# <img src="https://imgur.com/tNTFoSU" width="200"/> <br> Unprotected Cyber<br><img src="https://img.shields.io/github/v/release/hopeaxolotl/unprotected-cyber?include_prereleases&style=for-the-badge"> <br> <img src="https://img.shields.io/badge/DISTRIBUTION-UBUNTU%2020/22,%20DEBIAN%2036-green?style=for-the-badge"><br>
+# <img src="https://i.imgur.com/tNTFoSU.png" width="200"/> <br> Unprotected Cyber<br><img src="https://img.shields.io/github/v/release/hopeaxolotl/unprotected-cyber?include_prereleases&style=for-the-badge"> <br> <img src="https://img.shields.io/badge/DISTRIBUTION-UBUNTU%2020/22,%20DEBIAN%2036-green?style=for-the-badge"><br>
 Unprotected Cyber is a system hardening script built primarily for the securing of CyberCenturion/Patriot competition scenarios. It is now primarily used as a tool to quickly configure and edit certain Linux scripts.  <br> [Link to website here](https://youtube.com/@hopemapping)
 <br>
 <br>
