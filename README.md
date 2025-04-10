@@ -50,6 +50,7 @@ sudo apt install -y python3-pyqt5
  - [Sienna7002](https://github.com/sienna7002)
 ## Moral Support:
  - [MintImperial](https://github.com/addmewim)
+ - [@nastyarukrovic08]
 ## Special Thanks:
  - Developers of I am Root CyberCenturion script.
  - Developers of Gl0ckrain CyberCenturion script.
