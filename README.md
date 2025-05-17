@@ -8,7 +8,7 @@ Unprotected Cyber is primarily made in Python, along with a compilation of Bash 
 Pages of UnprotectedCyber are inspired by different menu screens in the GTA/Mafia series video games. Please do not strike me down, I will professionalise them soon !
 <br>
 <br>
-The legacy version of the script of which this script is based on the I am Root CyberCenturion Script and the Gl0ckrain CyberCenturion Script.
+The legacy version of the script of which this script is based on the IAR CyberCenturion Script and the Gl0ckrain CyberCenturion Script.
 <br>
 <br>
 # Screenshots
@@ -55,5 +55,5 @@ sudo apt install -y python3-pyqt5
  - [MintImperial](https://github.com/addmewim)
  - [@nastyarukrovic08]
 ## Special Thanks:
- - Developers of I am Root CyberCenturion script.
+ - Developers of IAR CyberCenturion script.
  - Developers of Gl0ckrain CyberCenturion script.
